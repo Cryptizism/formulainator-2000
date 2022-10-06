@@ -1,0 +1,11 @@
+.node{
+    width: -moz-fit-content;
+    width: fit-content;
+    background-color: cornsilk;
+    padding: 10px;
+    margin: 15px;
+}
+
+connection{
+    pointer-events: none;
+}
